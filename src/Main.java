@@ -3,7 +3,7 @@ public class Main {
         System.out.println("Задание №1");
         byte malo = 100;
         System.out.println("Значение переменной malo, с типом Byte равно " + malo);
-        short sredne = 10000;
+        short sredne = 20000;
         System.out.println("Значение переменной sredne, с типом Short равно " + sredne);
         int dostatochno = 100000;
         System.out.println("Значение переменной dostatochno, с типом int равно " + dostatochno);
